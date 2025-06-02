@@ -12,7 +12,7 @@ It shines a light on which sectors deliver the best return on investment and ope
 Beyond insights, it also serves as a hands-on template for structuring impactful financial dashboards and applying exploratory data analysis (EDA) techniques in Power BI.
 
 ## 📂 Access the Dataset
-The dataset used in this analysis is included in this repository. You can find it in the /data folder as financial_performance_data.xlsx. This file contains financial records for 9 companies across 5 quarters. Feel free to download the dataset, dive into the numbers, and try recreating the dashboard or even approaching the analysis your own way. 
+The dataset used in this analysis is included in this repository. You can find it in the data folder as finance_dataset.csv. This file contains financial records for 9 companies across 5 quarters. Feel free to download the dataset, dive into the numbers, and try recreating the dashboard or even approaching the analysis your own way. 
 
 ## 📈 Key Findings
 - 💰 Total Financials: Combined company revenue was $749.54M, profit $237.69M, and expenses $511.85M.
