@@ -7,11 +7,9 @@ This project provides an in-depth analysis of the financial performance of compa
 Conducted in Power BI, the analysis focuses on a dataset containing financial metrics for multiple companies over five quarters. The study evaluates each company’s financial health and benchmarks performance across industries including Retail, Tech, Healthcare, Energy, and more. Core KPIs include revenue, profit, expenses, profit margin, ROI, and stock price trends.
 
 ## 💡 Why This Project Is Useful
-This project aims to
-* Help stakeholders and decision-makers understand financial strengths and weaknesses at both company and industry levels.
-* Highlight which industries deliver the best return on investment and operational efficiency.
-* Show investors where market confidence aligns (or misaligns) with actual company performance.
-* Provide templates for structuring financial dashboards and applying EDA techniques in Power BI.
+This analysis is designed to help stakeholders, investors, and decision-makers gain a clearer understanding of financial strengths and weaknesses — both at the company level and across entire industries.
+It shines a light on which sectors deliver the best return on investment and operate with the most efficiency, while also revealing where market confidence may or may not reflect actual performance.
+Beyond insights, it also serves as a hands-on template for structuring impactful financial dashboards and applying exploratory data analysis (EDA) techniques in Power BI.
 
 ## 📂 Access the Dataset
 The dataset used in this analysis is included in this repository. You can find it in the /data folder as financial_performance_data.xlsx. This file contains financial records for 9 companies across 5 quarters. Feel free to download the dataset, dive into the numbers, and try recreating the dashboard or even approaching the analysis your own way. 
