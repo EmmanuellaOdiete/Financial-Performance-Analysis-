@@ -13,20 +13,15 @@ This project aims to
 * Provide templates for structuring financial dashboards and applying EDA techniques in Power BI.
 
 ## 📂 Access the Dataset
-The dataset used in this analysis is included in this repository. You can find it in the /data folder as financial_performance_data.xlsx. This file contains financial records for 9 companies across 5 quarters.
+The dataset used in this analysis is included in this repository. You can find it in the /data folder as financial_performance_data.xlsx. This file contains financial records for 9 companies across 5 quarters. Feel free to download the dataset, dive into the numbers, and try recreating the dashboard or even approaching the analysis your own way. 
 
 ## 📈 Key Findings
-💰 Total Financials: Combined company revenue was $749.54M, profit $237.69M, and expenses $511.85M.
-
-🛍️ Top Industry: Retail outperformed other industries with the highest average revenue ($6.7M) and profit margin (40.51%).
-
-🏆 Best Company: Kappa Technology had the highest profit margin (37.32%).
-
-📉 Lowest Margin: Omega Group had the lowest profit margin (22.15%), despite having the highest stock price.
-
-📊 Revenue vs. Profitability: High revenue didn’t always translate to high profit margins — highlighting the need for cost control.
-
-💹 Stock Price Trends: The Energy industry showed consistent stock growth, while Manufacturing experienced the most volatility.
+- 💰 Total Financials: Combined company revenue was $749.54M, profit $237.69M, and expenses $511.85M.
+- 🛍️ Top Industry: Retail outperformed other industries with the highest average revenue ($6.7M) and profit margin (40.51%).
+- 🏆 Best Company: Kappa Technology had the highest profit margin (37.32%).
+- 📉 Lowest Margin: Omega Group had the lowest profit margin (22.15%), despite having the highest stock price.
+- 📊 Revenue vs. Profitability: High revenue didn’t always translate to high profit margins — highlighting the need for cost control.
+- 💹 Stock Price Trends: The Energy industry showed consistent stock growth, while Manufacturing experienced the most volatility.
 
 ## ✅ Recommendations
 * Invest in the Retail Sector: It's efficient, profitable, and consistently high-performing.
@@ -36,14 +31,8 @@ The dataset used in this analysis is included in this repository. You can find i
 * Prioritize High-Quality Revenue: Focus on high-margin products and customer retention over just increasing sales volume.
 
 ## 🛠️ Tools and Methodologies
-Tool: Power BI
-Data Cleaning: Power Query
-
-Modeling: DAX for quarter sorting
-
-Visualization: Bar charts, KPI cards, scatter plots, line graphs, funnel charts
-
-Techniques: Exploratory Data Analysis (EDA), Industry Comparison, Profitability Segmentation
+This analysis was built entirely in Power BI, leveraging its robust data modeling, cleaning, and visualization capabilities. Data preparation was carried out using Power Query, where the dataset was thoroughly cleaned—checking for missing values, removing duplicates, and formatting numerical fields for consistency.
+The project follows an Exploratory Data Analysis (EDA) approach to surface key patterns and outliers, while industry benchmarking and profitability segmentation offer a structured lens to evaluate financial performance. 
 
 ## 🧠 Final Thought
 This project demonstrates how financial data can be transformed into powerful insights through storytelling and interactive visualization. By focusing not just on what companies earn but how efficiently they operate, this analysis helps decision-makers drive smarter strategies for growth, investment, and sustainability.
